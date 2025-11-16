@@ -1,0 +1,9 @@
+[submodule "Hardware/OSCAR_AUDIO_01"]
+	path = Hardware/OSCAR_AUDIO_01
+	url = https://github.com/DADDesign-Projects/OSCAR_AUDIO_01
+[submodule "Hardware/OSCAR_PROC_01"]
+	path = Hardware/OSCAR_PROC_01
+	url = https://github.com/DADDesign-Projects/OSCAR_PROC_01
+[submodule "Software_OSCAR_P01A01"]
+	path = Software_OSCAR_P01A01
+	url = https://github.com/DADDesign-Projects/Software_OSCAR_P01A01
