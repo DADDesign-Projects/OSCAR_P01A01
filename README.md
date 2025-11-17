@@ -88,11 +88,16 @@ https://www.freecad.org/
 Feel free to contact me for any questions, feedback, improvement suggestions, or collaboration proposals related to the FORGE framework or the OSCAR hardware platform. I am always open to discussion and community contributions (daddesign.projects@gmail.com).
 
 # 📷 Image Gallery
-
-  
+## Harware  
 |||
 | :---: | :---: |
 |![OSCAR](./Media/pres1.png) | ![OSCAR](./Media/pres2.png)| 
 |![OSCAR](./Media/pres3.png) | ![OSCAR](./Media/pres4.png)| 
 |![OSCAR](./Media/pres5.png) | ![OSCAR](./Media/pres6.png)| 
+
+## GUI
+||||
+| :---: | :---: | :---: |
+|![OSCAR](./Media/GUI_4.jpg) | ![OSCAR](./Media/GUI_5.jpg) | ![OSCAR](./Media/GUI_3.jpg) | 
+|![OSCAR](./Media/GUI_6.jpg) | ![OSCAR](./Media/GUI_7.jpg) | ![OSCAR](./Media/GUI_1.jpg) | 
 
