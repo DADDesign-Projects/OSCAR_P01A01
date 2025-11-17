@@ -87,3 +87,12 @@ https://www.freecad.org/
 # 📬 Contact
 Feel free to contact me for any questions, feedback, improvement suggestions, or collaboration proposals related to the FORGE framework or the OSCAR hardware platform. I am always open to discussion and community contributions (daddesign.projects@gmail.com).
 
+# 📷 Image Gallery
+
+  
+|||
+| :---: | :---: |
+|![OSCAR](./Media/pres1.png) | ![OSCAR](./Media/pres2.png)| 
+|![OSCAR](./Media/pres3.png) | ![OSCAR](./Media/pres4.png)| 
+|![OSCAR](./Media/pres5.png) | ![OSCAR](./Media/pres6.png)| 
+
