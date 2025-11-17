@@ -74,6 +74,10 @@ It provides the compiler, debugger, HAL libraries, CubeMX configuration, and all
 Download STM32CubeIDE here:  
 https://www.st.com/en/development-tools/stm32cubeide.html
 
+### 🔧 UtilityQSPI Flasher utility
+QSPI Flasher is a utility that allows you to load files (samples, images, font, etc.) into the QSPI Flash memory of the processor board see :  
+https://github.com/DADDesign-Projects/OSCAR_P01_FlasherClient
+
 ### 🧩 Hardware Development  
 All hardware for OSCAR (processor board, audio board, connectors, etc.) is designed using **KiCad 9.0**, a fully open-source EDA suite.
 Download KiCad 9.0 here:  
@@ -88,11 +92,16 @@ https://www.freecad.org/
 Feel free to contact me for any questions, feedback, improvement suggestions, or collaboration proposals related to the FORGE framework or the OSCAR hardware platform. I am always open to discussion and community contributions (daddesign.projects@gmail.com).
 
 # 📷 Image Gallery
-
-  
+## Harware  
 |||
 | :---: | :---: |
 |![OSCAR](./Media/pres1.png) | ![OSCAR](./Media/pres2.png)| 
 |![OSCAR](./Media/pres3.png) | ![OSCAR](./Media/pres4.png)| 
 |![OSCAR](./Media/pres5.png) | ![OSCAR](./Media/pres6.png)| 
+
+## GUI
+||||
+| :---: | :---: | :---: |
+|![OSCAR](./Media/GUI_4.jpg) | ![OSCAR](./Media/GUI_5.jpg) | ![OSCAR](./Media/GUI_3.jpg) | 
+|![OSCAR](./Media/GUI_6.jpg) | ![OSCAR](./Media/GUI_7.jpg) | ![OSCAR](./Media/GUI_1.jpg) | 
 
