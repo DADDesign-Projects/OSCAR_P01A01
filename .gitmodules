@@ -7,3 +7,6 @@
 [submodule "Software_OSCAR_P01A01"]
 	path = Software_OSCAR_P01A01
 	url = https://github.com/DADDesign-Projects/Software_OSCAR_P01A01
+[submodule "OSCAR_P01_FlasherClient"]
+	path = OSCAR_P01_FlasherClient
+	url = https://github.com/DADDesign-Projects/OSCAR_P01_FlasherClient
