@@ -61,8 +61,9 @@ https://github.com/DADDesign-Projects/OSCAR_AUDIO_01
     * Low Noise Regulation: Multiple LDO regulators 
 
 ### 💻 Software  
-The OSCAR software stack is built around the **DAD_FORGE** framework (Framework for Open and Resourceful Guitar Effects):  
-https://github.com/DADDesign-Projects/DAD_FORGE  
+The complete FORGE software, along with its full implementation for the OSCAR P01A01 platform, is hosted in the following repository:
+Software_OSCAR_P01A01 https://github.com/DADDesign-Projects/Software_OSCAR_P01A01.  
+The OSCAR software stack is built around the **DAD_FORGE** framework (Framework for Open and Resourceful Guitar Effects): https://github.com/DADDesign-Projects/DAD_FORGE.  
 DAD_FORGE provides the complete software architecture: audio processing pipeline (DSP), parameter system, embedded user interface, preset management, and integration with OSCAR hardware modules.  
 It enables developers to quickly create modular and professional-grade audio effects (delay, chorus, tremolo, etc.) without having to rebuild the entire infrastructure from scratch.
 
