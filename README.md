@@ -1,3 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![MCU](https://img.shields.io/badge/MCU-STM32H7-brightgreen)
+![Audio](https://img.shields.io/badge/Audio-Codec%20PMC3060-green)
+![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C++-yellow)
+![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-lightgrey)
+![Status](https://img.shields.io/badge/Status-Mature%20%7C%20Active%20Development-success)
+---
 ![OSCAR](./Media/OSCAR.png)
 ---
 # OSCAR — Open Source Custom Audio Rig
@@ -46,7 +53,7 @@ https://github.com/DADDesign-Projects/OSCAR_AUDIO_01
   * Power Supply
     * Isolated Power: Separate analog and digital domains
     * Input Voltage: 12V DC
-    * Low Noise Regulation: Multiple LDO regulators
+    * Low Noise Regulation: Multiple LDO regulators 
 
 ### 💻 Software  
 The OSCAR software stack is built around the **DAD_FORGE** framework (Framework for Open and Resourceful Guitar Effects):  
