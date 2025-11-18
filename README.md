@@ -98,6 +98,7 @@ Feel free to contact me for any questions, feedback, improvement suggestions, or
 |![OSCAR](./Media/pres1.png) | ![OSCAR](./Media/pres2.png)| 
 |![OSCAR](./Media/pres3.png) | ![OSCAR](./Media/pres4.png)| 
 |![OSCAR](./Media/pres5.png) | ![OSCAR](./Media/pres6.png)| 
+|![OSCAR](./Media/pres7.png) | ![OSCAR](./Media/pres8.png)| 
 
 ## GUI
 ||||
