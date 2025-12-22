@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![MCU](https://img.shields.io/badge/MCU-STM32H7-brightgreen)
 ![Audio](https://img.shields.io/badge/Audio-Codec%20PMC3060-green)
 ![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C++-yellow)
