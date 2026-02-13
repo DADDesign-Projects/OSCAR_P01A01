@@ -14,6 +14,8 @@ The goal of the project is to **simplify** and **speed up** the creation of audi
 
 Designed as a flexible and scalable platform, OSCAR allows developers to focus directly on creating effects (delay, chorus, tremolo, etc.) instead of dealing with low-level infrastructure.
 It provides a **complete, reusable, and extensible** base for quickly building professional-quality digital effect pedals.
+
+**Follow all the latest updates, project progress, and demos on my [Facebook page](https://www.facebook.com/people/DADDesign-Projects/61583645957068/)! 🎛️🎶**
 ## 📥 Cloning the Repository  
 OSCAR uses submodules for hardware and software components.  
 To clone the complete project with all dependencies:
