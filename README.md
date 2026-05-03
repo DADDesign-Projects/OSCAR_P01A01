@@ -76,9 +76,15 @@ It provides the compiler, debugger, HAL libraries, CubeMX configuration, and all
 Download STM32CubeIDE here:  
 https://www.st.com/en/development-tools/stm32cubeide.html
 
-### 🔧 QSPI Flasher utility
-QSPI Flasher is a utility that allows you to load files (samples, images, font, etc.) into the QSPI Flash memory of the processor board see :  
-https://github.com/DADDesign-Projects/OSCAR_P01_FlasherClient
+### 🔧 QSPI Loader/Flasher utility
+OSCAR_P01_FlasherLoader combines a bootloader and a flashing client.
+In conjunction with OSCAR_Flasher_Server, it allows transferring files (samples, images, fonts, ELF executables, etc.) from a PC to the QSPI flash memory of the OSCAR_P01 board via USB.
+
+When an ELF file is stored as an executable in the bootloader interface, the bootloader automatically loads it into RAM at power-up and starts its execution.
+
+https://github.com/DADDesign-Projects/OSCAR_P01_FLasherLoader
+
+https://github.com/DADDesign-Projects/OSCAR_Flasher_Server
 
 ### 🧩 Hardware Development  
 All hardware for OSCAR (processor board, audio board, connectors, etc.) is designed using **KiCad 9.0**, a fully open-source EDA suite.
