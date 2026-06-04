@@ -13,3 +13,6 @@
 [submodule "FlasherLoader/OSCAR_Flasher_Server"]
 	path = FlasherLoader/OSCAR_Flasher_Server
 	url = https://github.com/DADDesign-Projects/OSCAR_Flasher_Server
+[submodule "FlasherLoader/OSCAR_PY_Flasher_Server"]
+	path = FlasherLoader/OSCAR_PY_Flasher_Server
+	url = https://github.com/DADDesign-Projects/OSCAR_PY_Flasher_Server
