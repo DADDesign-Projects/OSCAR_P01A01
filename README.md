@@ -13,7 +13,9 @@
 The goal of the project is to **simplify** and **speed up** the creation of audio effects by offering all the essential building blocks: audio codec management, hardware interfaces (QSPI, SDRAM, GPIO, encoders, footswitch), audio pipeline, parameters, embedded UI, and a modular software architecture ready to use.  
 
 Designed as a flexible and scalable platform, OSCAR allows developers to focus directly on creating effects (delay, chorus, tremolo, etc.) instead of dealing with low-level infrastructure.
-It provides a **complete, reusable, and extensible** base for quickly building professional-quality digital effect pedals.
+It provides a **complete, reusable, and extensible** base for quickly building professional-quality digital effect pedals.  
+
+[![SoundCloud Demo]([https://i.imgur.com/xxxxx.png)](https://on.soundcloud.com/iqdw3qWJcGKVc48CpR)
 
 **Follow all the latest updates, project progress, and demos on my [Facebook page](https://www.facebook.com/people/DADDesign-Projects/61583645957068/)! 🎛️🎶**
 ## 📥 Cloning the Repository  
